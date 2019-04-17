@@ -1,0 +1,1 @@
+<?php $name=  "M Tahseen mashaidi ";$email="mashaidi3@gmail.com";$message= " aslkjlsd;fldnvlsjahfjdjhfldsvhlsdjv" ; ?> 
